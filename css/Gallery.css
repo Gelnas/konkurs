@@ -85,6 +85,10 @@ h2 {
     margin-right: auto;
 }
 
+.yakushov {
+    margin-top:40px;
+}
+
 @media screen and (max-width: 992px) {
     .logo {
         display: block;
